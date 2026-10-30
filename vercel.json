@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/Awasthi-parivar-mangal/$1"
+    }
+  ]
+}
